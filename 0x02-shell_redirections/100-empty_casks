@@ -1,2 +1,2 @@
 #!/bin/bash
-ind . -empty | rev | cut -d '/' -f1 |rev
+ind . -empty | rev | cut -d '/' -f1 | rev
